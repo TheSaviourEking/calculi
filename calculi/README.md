@@ -33,11 +33,6 @@ Clone the project
   git clone https://github.com/TheSaviourEking/calculi.git
 ```
 
-Go to the project directory
-
-```bash
-```
-
 Install dependencies
 
 ```bash
