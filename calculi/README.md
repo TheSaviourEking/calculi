@@ -23,7 +23,6 @@ Install my-project with pip
 
 ```bash
   pip install dispersons
-  cd my-project
 ```
     
 ## Run Locally
