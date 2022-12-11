@@ -31,7 +31,7 @@ Install my-project with pip
 Clone the project
 
 ```bash
-  git clone https://github.com/TheSaviourEking/PyPi--package-test.git
+  git clone https://github.com/TheSaviourEking/calculi.git
 ```
 
 Go to the project directory
