@@ -22,7 +22,7 @@ A Pip package for calculating Gaussian and Binomial distributions
 Install my-project with pip
 
 ```bash
-  pip install dispersons
+  pip install calculi
 ```
     
 ## Run Locally
