@@ -38,9 +38,3 @@ Install dependencies
 ```bash
   python -m install --upgrade pip
 ```
-
-
-## Screenshots
-
-![App Screenshot](http .... TODO)
-
